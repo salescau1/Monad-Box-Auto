@@ -1,4 +1,4 @@
-# 🚀 Monad Auto Contract Interaction Bot
+# 🚀 Monad Auto Contract Interaction Bot (DO WITH YOUR OWN RISK!!!
 
 This is a beginner-friendly guide and working example of how to automatically interact with a smart contract on the [Monad](https://monad.xyz) blockchain using JavaScript, `ethers.js`, and Node.js.
 
