@@ -21,7 +21,13 @@ Monad-Box-Auto/
 
 ## 📥 Installation
 
-Clone this repo or create the folder manually, then:
+Clone this repo 
+```bash
+https://github.com/salescau1/Monad-Box-Auto.git
+```
+```bash
+cd Monad-Box-Auto
+```
 
 ```bash
 npm install
