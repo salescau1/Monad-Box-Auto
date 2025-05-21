@@ -45,8 +45,6 @@ Edit `.env` file in the root directory:
 
 ```
 PRIVATE_KEY=your_private_key_here
-RPC_URL=https://your-monad-rpc-url
-CONTRACT_ADDRESS=0xYourSmartContractAddress
 ```
 
 > ⚠️ **Never share your `.env` file. Add it to `.gitignore`**.
